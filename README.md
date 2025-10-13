@@ -7,8 +7,8 @@ I love building cool projects with modern frameworks and sharing my journey here
 
 ### 🛠 Languages & Frameworks
 - **Languages:** Python, JavaScript, Go
-- **Frameworks/Libraries:** Flask, FastAPI, React, Next.js, TailwindCSS
-- **Other Tools:** Docker, Git, GitHub Actions, Azure
+- **Frameworks/Libraries:** Flask, React, Next.js, Svelte, TailwindCSS
+- **Other Tools:** Docker, Git, GitHub Actions, Microsoft Azure
 
 ---
 

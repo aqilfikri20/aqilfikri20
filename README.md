@@ -15,7 +15,8 @@ I love building cool projects with modern frameworks and sharing my journey here
 ### 📊 GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aqilfikri20&theme=dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aqilfikri20&layout=compact&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=aqilfikri20&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=aqilfikri20&theme=dark&hide_border=true&v=1)
+
 
 
 ---

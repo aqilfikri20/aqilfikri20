@@ -6,8 +6,9 @@ I love building cool projects with modern frameworks and sharing my journey here
 ---
 
 ### 🛠 Languages & Frameworks
-- **Languages:** Python, JavaScript, Go
+- **Languages:** JavaScript, Python, Go
 - **Frameworks/Libraries:** Flask, React, Next.js, Svelte, TailwindCSS
+- **Database:** MySQL, PostgreSQL, SQLite, MongoDB
 - **Other Tools:** Docker, Git, GitHub Actions, Microsoft Azure
 
 ---

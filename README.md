@@ -14,7 +14,7 @@ I love building cool projects with modern frameworks and sharing my journey here
 --
 
 ### 📊 GitHub Stats
-![My Skills](https://skillicons.dev/icons?i=html,css,js,py,go,react,vite,next,js,svelte,tailwind,flask,fastapi,nodejs,mysql,mongodb,postgres,bootstrap,azure&theme=light)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,go,react,vite,nextjs,svelte,tailwind,flask,fastapi,nodejs,mysql,mongodb,postgres,bootstrap,figma,azure&theme=light)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aqilfikri20&layout=compact&theme=dark)
 

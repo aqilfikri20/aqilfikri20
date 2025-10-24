@@ -3,7 +3,7 @@
 I'm MHD AQIL AL FIKRI, a passionate developer exploring full-stack, AI, and DevOps.  
 I love building cool projects with modern frameworks and sharing my journey here on GitHub.
 
----
+--
 
 ### 🛠 Languages & Frameworks
 - **Languages:** JavaScript, Python, Go
@@ -11,7 +11,7 @@ I love building cool projects with modern frameworks and sharing my journey here
 - **Database:** MySQL, PostgreSQL, SQLite, MongoDB
 - **Other Tools:** Docker, Git, GitHub Actions, Microsoft Azure
 
----
+--
 
 ### 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aqilfikri20&layout=compact&theme=dark)

@@ -8,13 +8,13 @@ I love building cool projects with modern frameworks and sharing my journey here
 ### 🛠 Languages & Frameworks
 - **Languages:** JavaScript, Python, Go
 - **Frameworks/Libraries:** Flask, React, Next.js, Svelte, TailwindCSS
-- **Database:** MySQL, PostgreSQL, SQLite, MongoDB
+- **Database:** MySQL, PostgreSQL, MongoDB
 - **Other Tools:** Docker, Git, GitHub Actions, Microsoft Azure
 
 --
 
 ### 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqilfikri20)](https://github.com/aqilfikri20/github-readme-stats)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,go,react,vite,next,js,svelte,tailwind,flask,fastapi,nodejs,mysql,mongodb,postgres,bootstrap, azure &theme=light)](https://skillicons.dev)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aqilfikri20&layout=compact&theme=dark)
 
 

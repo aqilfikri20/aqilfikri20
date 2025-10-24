@@ -14,6 +14,7 @@ I love building cool projects with modern frameworks and sharing my journey here
 --
 
 ### 📊 GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqilfikri20)](https://github.com/aqilfikri20/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aqilfikri20&layout=compact&theme=dark)
 
 
